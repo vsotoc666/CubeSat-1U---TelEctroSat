@@ -1,0 +1,23 @@
+# Software de vuelo (Raspberry Pi Zero 2 W)
+LoRaRF                  # Driver SX127x. main_vuelo.py usa la API de PyPI: SX127x() sin argumentos
+smbus2
+RPi.bme280
+mpu9250-jmdev
+adafruit-blinka
+adafruit-circuitpython-ads1x15
+pyserial
+RPi.GPIO
+
+# Pruebas opcionales
+pynmea2
+numpy
+spidev
+pigpio
+
+# Estación terrena (PC)
+dash
+plotly
+dash-extendable-graph
+paho-mqtt
+pygame
+PyOpenGL

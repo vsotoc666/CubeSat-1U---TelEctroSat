@@ -1,0 +1,24 @@
+
+ ----------------   SOLIDOS    ---------------- 
+
+Masa:                     53434.6905 
+Volumen:                  53434.6905 
+Cuadro delimitador:   X: 149.2055  --  243.2624 
+                      Y: 138.9437  --  440.0216 
+                      Z: 462.7347  --  968.3585 
+Centro de gravedad:   X: 196.1719 
+                      Y: 278.3269 
+                      Z: 663.5471 
+Momentos de inercia:  X: 29418306953.7007  
+                      Y: 27096175553.8447  
+                      Z: 6574056803.8899  
+Productos de inercia:XY: -2917539899.0459  
+                     YZ: -1.0360E+10  
+                     ZX: -6955462864.5186  
+Radios de giro:       X: 741.9885 
+                      Y: 712.1022 
+                      Z: 350.7560 
+Momentos principales y direcciones X-Y-Z alrededor del centro de gravedad:
+                      I: 1751928901.8598 a lo largo de [1.0000 -0.0007 0.0003]
+                      J: 1696089257.4247 a lo largo de [0.0008 0.9370 -0.3494]
+                      K: 195066166.0433 a lo largo de [-0.0001 0.3494 0.9370]

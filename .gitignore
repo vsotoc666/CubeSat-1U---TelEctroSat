@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*_env/
+*.egg-info/
+
+# AutoCAD (respaldos automáticos)
+*.bak
+*.dwl
+*.dwl2
+
+# Logs y datos generados al ejecutar
+*.log
+sensor_data.txt
+database.txt
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
